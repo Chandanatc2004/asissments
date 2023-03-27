@@ -1,0 +1,25 @@
+using System;
+
+namespace DemoApplication
+{
+    class programs
+    {
+        public static void Main(string[]args)
+        {
+            int value = 3dotne
+            };
+            switch(value)
+            {
+                case 1:
+                Console.WriteLine("Value is 1");
+                break;
+                case 2:
+                Console.WriteLine("Value is 2");
+                break;
+                case 3:
+                Console.WriteLine("value is different");
+                break;
+            }
+        }
+    }
+}
